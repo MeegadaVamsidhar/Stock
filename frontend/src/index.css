@@ -3,7 +3,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antiaaased;
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
@@ -12,6 +12,26 @@ code {
     monospace;
 }
 
+a {
+  text-decoration: none;
+  color: #666;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #387ed1;
+}
+
 .nav-link{
   margin-left: 40px;
+  color: #666 !important;
+}
+
+.nav-link:hover{
+    color: #387ed1 !important;
+}
+
+/* Ensure buttons don't get the grey color */
+.btn-primary {
+    color: #fff !important;
 }
