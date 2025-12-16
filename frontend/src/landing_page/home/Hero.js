@@ -4,10 +4,12 @@ function Hero() {
     return (
         <div className='container p-5 mb-5'>
             <div className='row text-center'>
-                <img src='media/images/homeHero.png' alt='HeroImage' className='mb-5'/>
-                <h1 className='mt-5'>Invest in everything</h1>
-                <p>Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</p>
-                <button className='p-3 btn btn-primary fs-5 mb-5' style={{width:"20%",margin:"0 auto"}}>Sign up for free</button>
+                <img src='media/images/homeHero.png' alt='Hero Image' className='mb-5' style={{ width: '70%', margin: '0 auto' }} />
+                <h1 className='mt-5 fs-1'>Invest in everything</h1>
+                <p className='fs-5 text-muted mt-3'>Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</p>
+                <div className='mt-4 mb-5'>
+                    <a href='/signup' className='btn btn-primary fs-5 px-5 py-3' style={{ borderRadius: '4px' }}>Sign up for free</a>
+                </div>
             </div>
         </div>
     )

@@ -20,7 +20,7 @@ function ProductsPage() {
             <RightSection
                 imageURL="/media/images/console.png"
                 productName="Console"
-                productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+                productDescription="The central dashboard for your Stock Matters account. Gain insights into your trades and investments with in-depth reports and visualisations."
                 learnMore=""
             />
             <LeftSection
@@ -35,7 +35,7 @@ function ProductsPage() {
             <RightSection
                 imageURL="/media/images/kiteconnect.png"
                 productName="Kite Connect API"
-                productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+                productDescription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
                 learnMore=""
             />
             <LeftSection
@@ -48,7 +48,7 @@ function ProductsPage() {
                 appStore=""
             />
             <h5 className='text-center mb-5 mt-5 text-muted'>
-                Want to know more about our technology stack? Check out the <a href='https://zerodha.tech/'>Zerodha.tech</a> blog.
+                Want to know more about our technology stack? Check out the <a href='https://Stock Matters.tech/'>Stock Matters.tech</a> blog.
             </h5>
             <Universe />
         </>
