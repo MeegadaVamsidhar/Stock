@@ -9,60 +9,60 @@ function Footer() {
                         <img src='media/images/logo.svg' style={{ width: "60%" }} alt='logo' />
                         <p>&copy; 2010 - 2025, Stock Matters Broking Ltd. All rights reserved.</p>
                         <ul className='mt-3 p-0'>
-                            <a href='#' className='text-muted mx-2'><i className="fa-brands fa-x-twitter fs-5"></i></a>
-                            <a href='#' className='text-muted mx-2'><i className="fa-brands fa-facebook-f fs-5"></i></a>
-                            <a href='#' className='text-muted mx-2'><i className="fa-brands fa-instagram fs-5"></i></a>
-                            <a href='#' className='text-muted mx-2'><i className="fa-brands fa-linkedin-in fs-5"></i></a>
+                            <a href='/' className='text-muted mx-2'><i className="fa-brands fa-x-twitter fs-5"></i></a>
+                            <a href='/' className='text-muted mx-2'><i className="fa-brands fa-facebook-f fs-5"></i></a>
+                            <a href='/' className='text-muted mx-2'><i className="fa-brands fa-instagram fs-5"></i></a>
+                            <a href='/' className='text-muted mx-2'><i className="fa-brands fa-linkedin-in fs-5"></i></a>
                         </ul>
                     </div>
                     <div className='col'>
                         <p>Account</p>
                         <ul className='p-0'>
-                            <a href=''>Open demat account</a><br />
-                            <a href=''>Minor demat account</a><br />
-                            <a href=''>NRI demat account</a><br />
-                            <a href=''>Commodity</a><br />
-                            <a href=''>Dematerialisation</a><br />
-                            <a href=''>Fund transfer</a><br />
-                            <a href=''>MTF</a><br />
-                            <a href=''>Referral program</a><br />
+                            <a href='/'>Open demat account</a><br />
+                            <a href='/'>NRI demat account</a><br />
+                            <a href='/'>Minor demat account</a><br />
+                            <a href='/'>Commodity</a><br />
+                            <a href='/'>Dematerialisation</a><br />
+                            <a href='/'>Fund transfer</a><br />
+                            <a href='/'>MTF</a><br />
+                            <a href='/'>Referral program</a><br />
                         </ul>
                     </div>
                     <div className='col'>
                         <p>Support</p>
                         <ul className='p-0'>
-                            <a href=''>Contact us</a><br />
-                            <a href=''>Support portal</a><br />
-                            <a href=''>How to file a complaint?</a><br />
-                            <a href=''>Status of your complaints</a><br />
-                            <a href=''>Bulletin</a><br />
-                            <a href=''>Circular</a><br />
-                            <a href=''>Z-Connect blog</a><br />
-                            <a href=''>Downloads</a><br />
+                            <a href='/'>Contact us</a><br />
+                            <a href='/'>Support portal</a><br />
+                            <a href='/'>How to file a complaint?</a><br />
+                            <a href='/'>Status of your complaints</a><br />
+                            <a href='/'>Bulletin</a><br />
+                            <a href='/'>Circular</a><br />
+                            <a href='/'>Z-Connect blog</a><br />
+                            <a href='/'>Downloads</a><br />
                         </ul>
                     </div>
                     <div className='col'>
                         <p>Company</p>
                         <ul className='p-0'>
-                            <a href=''>About</a><br />
-                            <a href=''>Philosophy</a><br />
-                            <a href=''>Press & media</a><br />
-                            <a href=''>Careers</a><br />
-                            <a href=''>Stock Matters Cares (CSR)</a><br />
-                            <a href=''>Stock Matters.tech</a><br />
-                            <a href=''>Open source</a><br />
+                            <a href='/'>About</a><br />
+                            <a href='/'>Philosophy</a><br />
+                            <a href='/'>Press & media</a><br />
+                            <a href='/'>Careers</a><br />
+                            <a href='/'>Stock Matters Cares (CSR)</a><br />
+                            <a href='/'>Stock Matters.tech</a><br />
+                            <a href='/'>Open source</a><br />
                         </ul>
                     </div>
                     <div className='col'>
                         <p>Quick links</p>
                         <ul className='p-0'>
-                            <a href=''>Upcoming IPOs</a><br />
-                            <a href=''>Brokerage charges</a><br />
-                            <a href=''>Market holidays</a><br />
-                            <a href=''>Economic calendar</a><br />
-                            <a href=''>Calculators</a><br />
-                            <a href=''>Markets</a><br />
-                            <a href=''>Sectors</a><br />
+                            <a href='/'>Upcoming IPOs</a><br />
+                            <a href='/'>Brokerage charges</a><br />
+                            <a href='/'>Market holidays</a><br />
+                            <a href='/'>Economic calendar</a><br />
+                            <a href='/'>Calculators</a><br />
+                            <a href='/'>Markets</a><br />
+                            <a href='/'>Sectors</a><br />
                         </ul>
                     </div>
                 </div>
