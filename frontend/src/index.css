@@ -14,16 +14,16 @@ code {
 
 a {
   text-decoration: none;
-  color: #666;
+  color: #3361ab;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #387ed1;
+  color: #0f64cc;
 }
 
 .nav-link{
-  margin-left: 40px;
+  margin-left: 50px;
   color: #666 !important;
 }
 
@@ -31,7 +31,6 @@ a:hover {
     color: #387ed1 !important;
 }
 
-/* Ensure buttons don't get the grey color */
 .btn-primary {
     color: #fff !important;
 }
